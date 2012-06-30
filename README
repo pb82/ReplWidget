@@ -1,0 +1,6 @@
+ReplWidget. A simple repl widget for Qt.
+----------------------------------------
+
+You can enter data into to repl, catch a signal, process
+the data and issue a slot to display the result on the repl.
+See the EchoRepl for an example.
