@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/" >
+        <file>application_xp_terminal.png</file>
+
+    </qresource>
+</RCC>
