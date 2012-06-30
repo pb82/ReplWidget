@@ -12,7 +12,7 @@ qmake
 make
 make install
 
-You should find the ReplWidgets in the designer under "Input Widgets".
+You should find the ReplWidget in the designer under "Input Widgets".
 
 The beatiful icon for this widget is part of the Silk Icon Collection.
 You can find them at:
