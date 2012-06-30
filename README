@@ -5,6 +5,15 @@ You can enter data into to repl, catch a signal, process
 the data and issue a slot to display the result on the repl.
 See the EchoRepl for an example.
 
+Installation
+------------
+
+qmake
+make
+make install
+
+You should find the ReplWidgets in the designer under "Input Widgets".
+
 The beatiful icon for this widget is part of the Silk Icon Collection.
 You can find them at:
 
