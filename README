@@ -4,3 +4,8 @@ ReplWidget. A simple repl widget for Qt.
 You can enter data into to repl, catch a signal, process
 the data and issue a slot to display the result on the repl.
 See the EchoRepl for an example.
+
+The beatiful icon for this widget is part of the Silk Icon Collection.
+You can find them at:
+
+	http://www.famfamfam.com/lab/icons/silk
